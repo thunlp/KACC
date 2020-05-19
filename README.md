@@ -10,6 +10,14 @@ Because of the file size limit of Github, you have to unzip the KACC-large datas
 cd data/
 unzip KACC-large.zip
 ```
+The id-name mapping files:
+
+- entity2name.txt
+
+- concept2name.txt
+
+- relation2name.txt
+
 
 Each of the dataset has three files:
 
