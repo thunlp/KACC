@@ -1,25 +1,31 @@
 # KACC
-KACC: A Multi-task Benchmark for Knowledge Abstraction, Concretization and Completion
+Datasets for the ACL 2021 Findings Paper "[KACC: A Multi-task Benchmark for Knowledge Abstraction, Concretization and Completion](https://arxiv.org/pdf/2004.13631.pdf)".
 
 
-### Data 
+## Datasets
 
-Because of the file size limit of Github, you have to unzip the KACC-large dataset first.
+Because of the file size limit of Github, you have to unzip the KACC-L dataset first.
 
 ```
-cd data/
-unzip KACC-large.zip
+cd Datasets/
+unzip KACC-L.zip
 ```
+
+### Mapping Files
+
 The id-name mapping files:
 
-- entity2name.txt
+- ent2name.txt
 
-- concept2name.txt
+	Mappings between all instances (include entities and concepts) and their names.
 
-- relation2name.txt
+- rel2name.txt
+
+	Mappings between all relations and their names.
 
 
-Each of the dataset has three files:
+### Raw Data
+For KACC-S/M/L, each of them has a ``Raw`` folder, which contains these files:
 
 - ent-triples.txt 
 
@@ -27,8 +33,28 @@ Each of the dataset has three files:
 
 - cpt-triples.txt 
 
-	Triples (`concept`, `meta-relation`, `concept`) in the concept graph.
+	Triples (`concept`, `conceptual-relation`, `concept`) in the concept graph.
 
 - cross-triples.txt 
 
-	Cross-view triples (`entity`, `instance_of`, `concept`).
+	Cross-view triples (`entity`, `instanceOf`, `concept`).
+
+- 2(3)-hop-ins(sub)-triples.txt
+
+	2-hop or 3-hop instanceOf (ins) and subclassOf (sub) triples in each dataset.
+
+### Split Data
+As our experiments are conducted on KACC-M, we provide a ``Split`` folder for KACC-M. In this folder, we provide the train/valid/test sets under the folder name of each task.
+
+## Citation
+
+If you use our data, please cite the paper:
+
+```
+@inproceedings{zhou2021kacc,
+  title={KACC: A Multi-task Benchmark for Knowledge Abstraction, Concretization and Completion},
+  author={Zhou, Jie and Hu, Shengding and Lv, Xin and Yang, Cheng and Liu, Zhiyuan and Xu, Wei and Jiang, Jie and Li, Juanzi and Sun, Maosong},
+  booktitle={Proceedings of ACL 2021: Findings},
+  year={2021}
+}
+```

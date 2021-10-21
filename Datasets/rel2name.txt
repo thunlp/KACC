@@ -1,0 +1,398 @@
+P17	country
+P530	diplomatic relation
+P30	continent
+P36	capital
+P463	member of
+P47	shares border with
+P421	located in time zone
+P27	country of citizenship
+P607	conflict
+P551	residence
+P19	place of birth
+P20	place of death
+P69	educated at
+P108	employer
+P1411	nominated for
+P155	follows
+P1589	lowest point
+P706	located on terrain feature
+P361	part of
+P112	founded by
+P131	located in the administrative territorial entity
+P206	located in or next to body of water
+P138	named after
+P1365	replaces
+P40	child
+P937	work location
+P166	award received
+P190	twinned administrative body
+P737	influenced by
+P527	has part
+P26	spouse
+P264	record label
+P170	creator
+P802	student
+P102	member of political party
+P119	place of burial
+P1889	different from
+P205	basin country
+P159	headquarters location
+P710	participant
+P800	notable work
+P495	country of origin
+P272	production company
+P1344	participant of
+P451	partner
+P276	location
+P127	owned by
+P740	location of formation
+P749	parent organization
+P1532	country for sport
+P750	distributor
+P57	director
+P161	cast member
+P162	producer
+P344	director of photography
+P915	filming location
+P840	narrative location
+P86	composer
+P58	screenwriter
+P2515	costume designer
+P175	performer
+P449	original broadcaster
+P1431	executive producer
+P1040	film editor
+P54	member of sports team
+P1877	after a work by
+P1346	winner
+P371	presenter
+P725	voice actor
+P3373	sibling
+P647	drafted by
+P2554	production designer
+P172	ethnic group
+P1038	relative
+P921	main subject
+P674	characters
+P136	genre
+P144	based on
+P2438	narrator
+P859	sponsor
+P1416	affiliation
+P1327	partner in business or sport
+P31	instance of
+P279	subclass of
+P1552	has quality
+P2578	studies
+P461	opposite of
+P2283	uses
+P1382	partially coincident with
+P460	said to be the same as
+P366	use
+P2670	has parts of the class
+P101	field of work
+P1269	facet of
+P2579	studied by
+P828	has cause
+P1074	fictional analog of
+P417	patron saint
+P35	head of state
+P735	given name
+P241	military branch
+P734	family name
+P485	archives at
+P137	operator
+P178	developer
+P793	significant event
+P6	head of government
+P945	allegiance
+P6379	has works in the collection
+P559	terminus
+P156	followed by
+P1441	present in work
+P6275	copyright representative
+P974	tributary
+P4614	drainage basin
+P50	author
+P1066	student of
+P194	legislative body
+P184	doctoral advisor
+P1434	takes place in fictional universe
+P598	commander of
+P708	diocese
+P825	dedicated to
+P500	exclave of
+P286	head coach
+P1080	from fictional universe
+P501	enclave within
+P118	league
+P53	family
+P4552	mountain range
+P135	movement
+P410	military rank
+P39	position held
+P2541	operating area
+P3342	significant person
+P488	chairperson
+P414	stock exchange
+P2348	time period
+P542	officially opened by
+P140	religion
+P123	publisher
+P291	place of publication
+P931	place served by transport hub
+P81	connecting line
+P831	parent club
+P1192	connecting service
+P1001	applies to jurisdiction
+P84	architect
+P115	home venue
+P3602	candidacy in election
+P66	ancestral home
+P2632	place of detention
+P609	terminus location
+P2789	connects with
+P1302	primary destinations
+P2512	series spin-off
+P664	organizer
+P1923	participating team
+P2882	relegated
+P3450	sports season of league or competition
+P179	part of the series
+P413	position played on team / speciality
+P1875	represented by
+P885	origin of the watercourse
+P3461	designated as terrorist by
+P1598	consecrator
+P991	successful candidate
+P726	candidate
+P7047	enemy of
+P2522	victory
+P88	commissioned by
+P4608	scenographer
+P126	maintained by
+P2860	cites work
+P2408	set in period
+P195	collection
+P113	airline hub
+P3919	contributed to creative work
+P1268	represents
+P669	located on street
+P466	occupant
+P941	inspired by
+P1037	director/manager
+P2499	league level above
+P3092	film crew member
+P3275	storyboard artist
+P6942	animator
+P169	chief executive officer
+P199	business division
+P3174	art director
+P1444	destination point
+P3730	next higher rank
+P3301	broadcast by
+P1427	start point
+P797	authority
+P807	separated from
+P3403	coextensive with
+P180	depicts
+P98	editor
+P1027	conferred by
+P768	electoral district
+P1336	territory claimed by
+P2321	general classification of race participants
+P2652	partnership with
+P7153	significant place
+P4323	young rider classification
+P3494	points classification
+P1071	location of final assembly
+P4320	mountains classification
+P4322	best sprinter classification
+P3497	teams classification by time
+P6758	supported sports team
+P4321	best combative classification
+P1075	rector
+P2417	stage classification
+P1433	published in
+P3085	qualifies for event
+P3496	teams classification by points
+P4324	combination classification
+P1891	signatory
+P767	contributor(s) to the creative work or subject
+P1290	godparent
+P521	scheduled service destination
+P3095	practiced by
+P1056	product or material produced
+P360	is a list of
+P1542	has effect
+P1557	manifestation of
+P150	contains administrative territorial entity
+P425	field of this occupation
+P1535	used by
+P452	industry
+P2238	official symbol
+P85	anthem
+P610	highest point
+P408	software engine
+P277	programming language
+P61	discoverer or inventor
+P676	lyrics by
+P832	public holiday
+P2936	language used
+P110	illustrator
+P287	designed by
+P1366	replaced by
+P6872	has written for
+P403	mouth of the watercourse
+P157	killed by
+P197	adjacent station
+P177	crosses
+P2505	carries
+P4908	season
+P631	structural engineer
+P1299	depicted by
+P3975	secretary general
+P4379	youth wing
+P2650	interested in
+P543	oath made by
+P545	torch lit by
+P512	academic degree
+P3320	board member
+P611	religious order
+P6087	coach of sports team
+P5769	editor-in-chief
+P167	structure replaced by
+P193	main building contractor
+P306	operating system
+P747	has edition
+P65	site of astronomical discovery
+P655	translator
+P469	lakes on river
+P200	inflows
+P201	lake outflow
+P3137	parent peak
+P5096	member of the crew of
+P437	distribution format
+P833	interchange station
+P1029	crew member
+P1876	vessel
+P16	highway system
+P400	platform
+P1142	political ideology
+P406	soundtrack release
+P3018	located in protected area
+P1716	brand
+P3279	statistical leader
+P1429	has pet
+P736	cover art by
+P943	programmer
+P3179	territory overlaps
+P533	target
+P658	tracklist
+P1035	honorific suffix
+P2925	domain of saint or deity
+P210	party chief representative
+P1158	location of landing
+P3842	located in present-day administrative territorial entity
+P1165	home world
+P1412	languages spoken, written or signed
+P4584	first appearance
+P467	legislated by
+P2546	sidekick of
+P509	cause of death
+P3729	next lower rank
+P553	website account on
+P2813	house publication
+P5607	located in the ecclesiastical territorial entity
+P176	manufacturer
+P2596	culture
+P3448	stepparent
+P106	occupation
+P4446	reward program
+P5460	grants
+P1652	referee
+P149	architectural style
+P2674	next crossing downstream
+P483	recorded at
+P3300	musical conductor
+P3032	adjacent building
+P5052	supervisory board member
+P505	general manager
+P87	librettist
+P4345	excavation director
+P4647	location of first performance
+P1840	investigated by
+P183	endemic to
+P803	professorship
+P942	theme music
+P608	exhibition history
+P5940	plot expanded in
+P3815	volcano observatory
+P1809	choreographer
+P504	home port
+P532	port of registry
+P3931	copyright holder
+P263	official residence
+P2291	charted in
+P1640	curator
+P237	coat of arms
+P547	commemorates
+P1990	species kept
+P97	noble title
+P3610	fare zone
+P1363	points/goal scored by
+P3205	patient of
+P612	mother house
+P1308	officeholder
+P2634	sitter
+P5138	season of club or team
+P38	currency
+P163	flag
+P3015	backup or reserve team or crew
+P3173	offers view on
+P748	appointed by
+P2881	promoted
+P1028	donated by
+P1408	licensed to broadcast to
+P1283	filmography
+P189	location of discovery
+P5028	sound designer
+P912	has facility
+P5353	school district
+P568	overlies
+P2872	tourist office
+P1593	defender
+P6718	music video
+P457	foundational text
+P2937	parliamentary term
+P1656	unveiled by
+P1591	defendant
+P1594	judge
+P1072	readable file format
+P2389	organization directed from the office or person
+P4661	reservoir created
+P5059	modified version of
+P1639	pendant of
+P1951	investor
+P872	printed by
+P1620	plaintiff
+P2825	via
+P5126	assistant director
+P5202	adapted by
+P823	speaker
+P1478	has immediate cause
+P2550	recording or performance of
+P2679	author of foreword
+P5804	has program committee member
+P5030	talk show guest
+P5026	lighting designer
+P6086	dramaturge
+P6568	inscription mentions
+P6153	research site
+P1547	depends on software
+P967	guest of honor
+P641	sport
+P186	material used
+P121	item operated
+P2079	fabrication method
+P2388	office held by head of the organization
